@@ -1,0 +1,23 @@
+.nav-items {
+  float: right;
+}
+
+h1.display-5 {
+  margin-bottom:1.5rem;
+}
+
+.feature-heading {
+  text-align: center;
+}
+
+.featurette-image {
+  padding-bottom: 2%;
+}
+
+.nav-link {
+  text-align: left;
+}
+
+.quote {
+  font-style: italic;
+}
